@@ -1,0 +1,33 @@
+.maincontent {
+  display: flex;
+  justify-content: center;
+}
+
+.result {
+  background-color: rgb(110, 110, 191);
+  color: white;
+  height: 200px;
+  width: 200px;
+  font-family: "Headland One", serif;
+  font-size: xx-large;
+  border-radius: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -300px;
+}
+
+button {
+  background-color: rgb(110, 110, 191);
+  color: white;
+  height: 200px;
+  width: 200px;
+  font-family: "Headland One", serif;
+  font-size: xx-large;
+  display: inline-block;
+  border-radius: 30%;
+}
+
+button:hover {
+  background-color: black;
+}
